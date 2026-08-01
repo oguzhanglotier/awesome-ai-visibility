@@ -1,6 +1,6 @@
-# Awesome Generative Engine Optimization [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome AI Visibility [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of tools, research, data and references for **Generative Engine Optimization (GEO)**: getting your product cited and recommended when buyers ask AI assistants like ChatGPT, Gemini and Perplexity for the best tool in a category.
+> A curated list of tools, research, data and references for **AI visibility** and **Generative Engine Optimization (GEO)**: getting your product cited and recommended when buyers ask AI assistants like ChatGPT, Gemini and Perplexity for the best tool in a category.
 
 Search moved. A growing share of buyers no longer type a query into Google and scan ten blue links. They ask an assistant, and the assistant hands back a short list of named products with a handful of cited sources. GEO is the practice of understanding how those answers get assembled, and getting your product into them.
 
