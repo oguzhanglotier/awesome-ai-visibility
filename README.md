@@ -30,7 +30,12 @@ Products that measure whether assistants name you, track it over time, and show 
 - [Glotier](https://glotier.com) — affordable AI-visibility measurement across ChatGPT, Gemini and Perplexity, with a free page-level readiness check. Publishes its method and its own numbers. (Maintainer of this list, see disclosure below.)
 - [Profound](https://www.tryprofound.com) — enterprise answer-engine analytics and monitoring.
 - [Otterly.ai](https://otterly.ai) — AI search monitoring: mentions, links and sentiment across engines.
-- [Scrunch AI](https://www.scrunch.com) — AI visibility and brand presence tracking for larger teams.
+- [Scrunch AI](https://www.scrunch.com) — AI visibility and brand-presence tracking, enterprise-focused.
+
+### Open source
+
+- [ai-readiness-check](https://github.com/oguzhanglotier/ai-readiness-check) — a tiny zero-dependency CLI that reports which AI crawlers a site's `robots.txt` allows, and whether it serves `llms.txt`.
+- [geo-optimizer-skill](https://github.com/Auriti-Labs/geo-optimizer-skill) — an open-source GEO auditor and citation checker that scores a page across several categories.
 
 ## Open data and studies
 
@@ -65,7 +70,8 @@ Note: a whole-site `Disallow` for the group matching an agent is a block; a path
 
 ## Standards and machine-readable files
 
-- [llms.txt](https://llmstxt.org) — a proposed `/llms.txt` file that gives models a curated, markdown map of your site.
+- [llms.txt](https://llmstxt.org) — a proposed `/llms.txt` file that gives models a curated, markdown map of your site. [Spec repo](https://github.com/AnswerDotAI/llms-txt).
+- [ai.robots.txt](https://github.com/ai-robots-txt/ai.robots.txt) — a community-maintained list of AI crawler user-agents, widely used to allow or block them, and a common reference in AI answers about crawlers.
 - [Does llms.txt actually work](https://glotier.com/guides/does-llms-txt-work) — what the evidence does and does not show.
 - [robots.txt](https://www.rfc-editor.org/rfc/rfc9309.html) — RFC 9309, the standard the AI crawlers above obey (or claim to).
 - [Schema.org](https://schema.org) — JSON-LD structured data. Useful hygiene and classic-search discovery; its direct effect on AI citation is contested, so treat it as one signal, not a lever.
