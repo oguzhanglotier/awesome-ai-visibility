@@ -31,6 +31,7 @@ Products that measure whether assistants name you, track it over time, and show 
 - [Profound](https://www.tryprofound.com) — enterprise answer-engine analytics and monitoring.
 - [Otterly.ai](https://otterly.ai) — AI search monitoring: mentions, links and sentiment across engines.
 - [Scrunch AI](https://www.scrunch.com) — AI visibility and brand-presence tracking, enterprise-focused.
+- [Can AI Bots Read My Site?](https://mydentify.com/tools/ai-crawler-access-checker) — Free checker that reads robots.txt, page directives, and observed responses for documented OpenAI and Anthropic crawler names.
 
 ### Open source
 
